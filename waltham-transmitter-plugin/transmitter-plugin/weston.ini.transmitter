@@ -1,0 +1,13 @@
+[transmitter-output]
+name=transmitter_1
+mode=800x600@60
+host=192.168.100.9
+port=34400
+agl-shell-app-id=weston-simple-egl
+
+[transmitter-output]
+name=transmitter_2
+mode=800x600@60
+host=192.168.100.9
+port=34401
+agl-shell-app-id=weston-simple-shm
